@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "name": "simplylight:lamp_post_pink",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "simplylight:blocks/lamp_post_pink",
+  "type": "minecraft:block"
+}

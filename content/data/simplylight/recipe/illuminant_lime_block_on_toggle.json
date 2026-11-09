@@ -1,0 +1,11 @@
+{
+  "category": "misc",
+  "ingredients": [
+    "simplylight:illuminant_lime_block"
+  ],
+  "result": {
+    "count": 1,
+    "id": "simplylight:illuminant_lime_block_on"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

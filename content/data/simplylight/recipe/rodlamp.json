@@ -1,0 +1,18 @@
+{
+  "category": "misc",
+  "key": {
+    "a": "#c:stones",
+    "b": "#c:dusts/glowstone"
+  },
+  "pattern": [
+    "bab",
+    "bab",
+    "bab"
+  ],
+  "result": {
+    "count": 8,
+    "id": "simplylight:rodlamp"
+  },
+  "show_notification": false,
+  "type": "minecraft:crafting_shaped"
+}

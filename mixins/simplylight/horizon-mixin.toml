@@ -1,0 +1,18 @@
+[mod]
+id = "simplylight"
+version = "1.5.3"
+priority = 100
+
+[compatibility]
+horizon_revision = "1d63e0a5a37a7a708eb0b32b49bf0dfeb28ed8a9"
+
+# The pure lamp census (standalone crate lib, injected as
+# `crate::game::simplylight`). The 160 blocks are content-only, declared in
+# ../content, so this bundle has no injection. The 10 tests pin upstream's
+# families, ids, templates, light levels, state-space sizes and drops that
+# `../tools/gen_content.py` writes.
+[[module]]
+id = "runtime"
+file = "crates/horizon-client/src/game.rs"
+name = "simplylight"
+source = "runtime.rs"

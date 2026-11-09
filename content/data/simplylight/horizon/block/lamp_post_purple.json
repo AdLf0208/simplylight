@@ -1,0 +1,99 @@
+{
+  "default_state": {
+    "position": "bottom"
+  },
+  "properties": {
+    "explosion_resistance": 1.0,
+    "hardness": 1.0,
+    "light": 15,
+    "map_color": 29,
+    "requires_tool": false,
+    "sounds": "minecraft:stone"
+  },
+  "shapes": {
+    "property": "position",
+    "values": {
+      "bottom": [
+        [
+          0.1875,
+          0.0,
+          0.1875,
+          0.8125,
+          0.125,
+          0.8125
+        ],
+        [
+          0.25,
+          0.125,
+          0.25,
+          0.75,
+          0.25,
+          0.75
+        ],
+        [
+          0.375,
+          0.25,
+          0.375,
+          0.625,
+          1.0,
+          0.625
+        ]
+      ],
+      "middle": [
+        [
+          0.375,
+          0.0,
+          0.375,
+          0.625,
+          0.625,
+          0.625
+        ],
+        [
+          0.3125,
+          0.625,
+          0.3125,
+          0.6875,
+          1.0,
+          0.6875
+        ]
+      ],
+      "top": [
+        [
+          0.375,
+          0.0,
+          0.375,
+          0.625,
+          0.3125,
+          0.625
+        ],
+        [
+          0.3125,
+          0.3125,
+          0.3125,
+          0.6875,
+          0.375,
+          0.6875
+        ],
+        [
+          0.1875,
+          0.375,
+          0.1875,
+          0.8125,
+          1.0,
+          0.8125
+        ]
+      ]
+    }
+  },
+  "state_properties": {
+    "position": {
+      "type": "enum",
+      "values": [
+        "bottom",
+        "middle",
+        "top"
+      ]
+    }
+  },
+  "template": "minecraft:mangrove_roots"
+}

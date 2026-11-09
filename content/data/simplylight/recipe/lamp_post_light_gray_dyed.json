@@ -1,0 +1,18 @@
+{
+  "category": "misc",
+  "key": {
+    "A": "#simplylight:any_post",
+    "B": "minecraft:light_gray_dye"
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 8,
+    "id": "simplylight:lamp_post_light_gray"
+  },
+  "show_notification": false,
+  "type": "minecraft:crafting_shaped"
+}

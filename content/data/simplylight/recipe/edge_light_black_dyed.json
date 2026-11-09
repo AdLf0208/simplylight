@@ -1,0 +1,18 @@
+{
+  "category": "misc",
+  "key": {
+    "A": "#simplylight:any_edge_light",
+    "B": "minecraft:black_dye"
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 8,
+    "id": "simplylight:edge_light_black"
+  },
+  "show_notification": false,
+  "type": "minecraft:crafting_shaped"
+}

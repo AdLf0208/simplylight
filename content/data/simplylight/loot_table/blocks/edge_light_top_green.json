@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "name": "simplylight:edge_light_top_green",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "simplylight:blocks/edge_light_top_green",
+  "type": "minecraft:block"
+}
