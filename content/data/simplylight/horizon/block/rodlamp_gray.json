@@ -1,0 +1,46 @@
+{
+  "properties": {
+    "explosion_resistance": 1.0,
+    "hardness": 1.0,
+    "light": 15,
+    "map_color": 36,
+    "requires_tool": false,
+    "sounds": "minecraft:stone"
+  },
+  "shapes": {
+    "property": "axis",
+    "values": {
+      "x": [
+        [
+          0.0,
+          0.4375,
+          0.4375,
+          1.0,
+          0.5625,
+          0.5625
+        ]
+      ],
+      "y": [
+        [
+          0.4375,
+          0.0,
+          0.4375,
+          0.5625,
+          1.0,
+          0.5625
+        ]
+      ],
+      "z": [
+        [
+          0.4375,
+          0.4375,
+          0.0,
+          0.5625,
+          0.5625,
+          1.0
+        ]
+      ]
+    }
+  },
+  "template": "minecraft:iron_chain"
+}

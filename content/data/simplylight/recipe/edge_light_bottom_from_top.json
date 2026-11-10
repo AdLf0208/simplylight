@@ -1,0 +1,11 @@
+{
+  "category": "misc",
+  "ingredients": [
+    "simplylight:edge_light_top"
+  ],
+  "result": {
+    "count": 1,
+    "id": "simplylight:edge_light"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

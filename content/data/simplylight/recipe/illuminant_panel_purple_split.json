@@ -1,0 +1,15 @@
+{
+  "category": "misc",
+  "key": {
+    "A": "simplylight:illuminant_slab_purple"
+  },
+  "pattern": [
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "simplylight:illuminant_panel_purple"
+  },
+  "show_notification": false,
+  "type": "minecraft:crafting_shaped"
+}

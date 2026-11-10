@@ -1,0 +1,7 @@
+# Carried from simplylight-1.5.3+1.21.1-b4.jar (MIT) for local use only.
+id = "simplylight"
+name = "Simply Light"
+version = "0.1.0"
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

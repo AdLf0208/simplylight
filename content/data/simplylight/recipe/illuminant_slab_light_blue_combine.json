@@ -1,0 +1,12 @@
+{
+  "category": "misc",
+  "ingredients": [
+    "simplylight:illuminant_panel_light_blue",
+    "simplylight:illuminant_panel_light_blue"
+  ],
+  "result": {
+    "count": 1,
+    "id": "simplylight:illuminant_slab_light_blue"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

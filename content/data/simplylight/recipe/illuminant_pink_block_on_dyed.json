@@ -1,0 +1,18 @@
+{
+  "category": "misc",
+  "key": {
+    "A": "#simplylight:any_lamp_on",
+    "B": "minecraft:pink_dye"
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 8,
+    "id": "simplylight:illuminant_pink_block_on"
+  },
+  "show_notification": false,
+  "type": "minecraft:crafting_shaped"
+}

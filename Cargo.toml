@@ -1,0 +1,18 @@
+[package]
+# Content port of: Simply Light 1.5.3 (Flanks255/simplylight, MIT). The 160
+# light blocks are declared in ../content from upstream's own assets and data;
+# this crate is the test-only census model (zero injections), kept so the
+# families, light levels and state spaces are unit-tested. Textures, models,
+# recipes and lang are the upstream mod's own MIT files and the port stays
+# local until the maintainer approves publishing (ARCHITECTURE.md §8).
+name = "horizon-simply-light"
+version = "1.5.3"
+edition = "2024"
+rust-version = "1.95"
+license = "MIT"
+description = "Simply Light's light blocks for Horizon"
+publish = false
+
+[lib]
+# This exact source is also injected as a same-crate module by horizon-mixins.
+path = "mixins/simplylight/runtime.rs"

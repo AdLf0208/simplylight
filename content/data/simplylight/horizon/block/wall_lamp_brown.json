@@ -1,0 +1,79 @@
+{
+  "collision_shapes": {
+    "default": []
+  },
+  "properties": {
+    "explosion_resistance": 1.0,
+    "hardness": 1.0,
+    "light": 15,
+    "map_color": 0,
+    "requires_tool": false,
+    "sounds": "minecraft:stone"
+  },
+  "shapes": {
+    "property": "facing",
+    "values": {
+      "down": [
+        [
+          0.375,
+          0.875,
+          0.375,
+          0.625,
+          1.0,
+          0.625
+        ]
+      ],
+      "east": [
+        [
+          0.0,
+          0.375,
+          0.25,
+          0.1875,
+          0.625,
+          0.75
+        ]
+      ],
+      "north": [
+        [
+          0.25,
+          0.375,
+          0.8125,
+          0.75,
+          0.625,
+          1.0
+        ]
+      ],
+      "south": [
+        [
+          0.25,
+          0.375,
+          0.0,
+          0.75,
+          0.625,
+          0.1875
+        ]
+      ],
+      "up": [
+        [
+          0.375,
+          0.0,
+          0.375,
+          0.625,
+          0.125,
+          0.625
+        ]
+      ],
+      "west": [
+        [
+          0.8125,
+          0.375,
+          0.25,
+          1.0,
+          0.625,
+          0.75
+        ]
+      ]
+    }
+  },
+  "template": "minecraft:amethyst_cluster"
+}

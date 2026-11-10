@@ -1,0 +1,17 @@
+{
+  "category": "misc",
+  "key": {
+    "a": "#c:stones",
+    "b": "minecraft:glowstone"
+  },
+  "pattern": [
+    "bbb",
+    "aaa"
+  ],
+  "result": {
+    "count": 6,
+    "id": "simplylight:illuminant_slab"
+  },
+  "show_notification": false,
+  "type": "minecraft:crafting_shaped"
+}

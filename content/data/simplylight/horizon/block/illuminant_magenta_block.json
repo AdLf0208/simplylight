@@ -1,0 +1,19 @@
+{
+  "default_state": {
+    "on": "false"
+  },
+  "properties": {
+    "explosion_resistance": 1.0,
+    "hardness": 1.0,
+    "light": 0,
+    "map_color": 29,
+    "requires_tool": false,
+    "sounds": "minecraft:stone"
+  },
+  "state_properties": {
+    "on": {
+      "type": "boolean"
+    }
+  },
+  "template": "minecraft:calcite"
+}
